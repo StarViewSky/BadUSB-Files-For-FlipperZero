@@ -11,5 +11,5 @@ DEFAULT_DELAY 100
 REM open powershell (remove -W Hidden to show the window)
 GUI r
 DELAY 750
-STRING powershell -W Hidden -Exec Bypass -C "Add-Type -AssemblyName PresentationFramework;[System.Windows.MessageBox]::Show('HACKED MESSAGE BOX')"
+STRING powershell -W Hidden -Exec Bypass -C "Add-Type -AssemblyName PresentationFramework;[System.Windows.MessageBox]::Show('STRANGER DANGER HAHA')"
 ENTER
